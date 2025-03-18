@@ -1,0 +1,87 @@
+Privacy Policy
+Last Updated: March 2025
+
+1. Introduction
+Welcome to BillyAI ("we," "our," or "us"). We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application.
+
+2. Information We Collect
+We collect and process the following types of data:
+
+a. Invoice Data
+Information extracted from scanned or uploaded invoices, including IBAN, recipient name, payment reference (omschrijving), and payment value.
+b. Camera and Images
+If you use the app’s camera feature, we collect invoice images for scanning and processing only.
+The images are processed locally and via Google Vision API to extract invoice details.
+We do not store these images permanently.
+c. Device Information
+Non-personal data such as device type, operating system, and unique identifiers, collected solely for app performance optimization and analytics.
+d. Usage Data
+Information about how you interact with the app, such as features accessed and time spent using the app.
+3. How We Use Your Information
+Your data is used exclusively for the following purposes:
+
+Extracting invoice details using OCR (Optical Character Recognition) and AI-powered processing.
+Displaying extracted data in an easy-to-copy format.
+Enhancing user experience through anonymized analytics.
+Ensuring app functionality and performance optimization.
+We do not use your data for advertising or tracking purposes.
+
+4. Use of Cloud Services and Third-Party APIs
+To provide accurate invoice data extraction, our app utilizes:
+
+Google Vision API – Converts images into readable text.
+OpenAI API – Analyzes OCR text to extract structured invoice details.
+These APIs process your data temporarily but do not store or retain any information after processing.
+
+5. Data Storage and Security
+Your invoice details are securely stored in Firebase Firestore, linked to an anonymous identifier (not personal data).
+Images captured using the camera feature are not stored—they are processed and then discarded.
+We implement industry-standard security measures, including encryption and anonymization, to protect your data.
+We do not share or sell your personal information.
+6. Permissions Requested by the App
+To ensure the app functions properly, we require the following permissions:
+
+Camera Access 📷
+
+Used exclusively for scanning invoices.
+No images are stored after processing.
+Storage Access (Temporary) 💾
+
+Used to handle invoice images during processing.
+Files are not stored permanently on your device.
+These permissions are only activated when needed and are never used for any other purpose.
+
+7. Data Sharing
+We do not sell your data. However, we share limited information with the following trusted service providers:
+
+Google (Firebase, Vision API) – Used for OCR processing and app functionality.
+OpenAI API – Used for extracting structured invoice data.
+Additionally, we may disclose data if required by law or to comply with regulatory obligations.
+
+8. Data Retention and Deletion
+Invoice data is stored only while using the app.
+Images are not stored after processing.
+Data linked to anonymous identifiers remains in our system until you manually delete invoices.
+You can request data deletion at any time via holidizer@gmail.com.
+9. Your Rights
+Depending on your jurisdiction, you may have the following rights:
+
+✔️ Access your personal data.
+✔️ Request corrections to incorrect or incomplete data.
+✔️ Request deletion or restriction of your data.
+✔️ Object to certain types of data processing.
+✔️ Request a copy of your data (data portability).
+
+To exercise these rights, please contact us at holidizer@gmail.com.
+
+10. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. When we make changes, we will:
+
+Update the "Last Updated" date at the top.
+Notify users of significant changes within the app.
+Your continued use of the app after changes means you accept the updated policy.
+
+11. Contact Information
+If you have any questions or concerns regarding privacy or data protection, feel free to contact us:
+
+📧 Email: holidizer@gmail.com
